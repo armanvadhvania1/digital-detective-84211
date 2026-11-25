@@ -1,0 +1,26 @@
+1)Initialise a repository-git init:
+Turns an existing local project folder into a new Git repository so it can track file versions.
+
+2)Check Status-git status:
+Displays the current branch and shows which files are untracked, modified, or staged for commit.
+
+3)Stage changes-git add:
+Moves selected file edits into the staging area to prepare them for the next commit.
+
+4)Commit changes-git commit:
+Saves all currently staged changes as a permanent snapshot in the local repository history.
+
+5)View history-git log:
+Lists previous commits in reverse chronological order along with their commit messages and IDs
+
+6)Create or list branches-git branch:
+Lists all existing local branches or creates a new branch when given a branch name.
+
+7)Switch branches-git checkout/git switch:
+Moves your working directory from the current branch to another specified branch.
+
+8)Publish changes-git push:
+Uploads your local commits and branches to a remote repository.
+
+9)Retrieve remote changes-git pull:
+Downloads the latest commits from a remote repository and merges them into your current local branch.

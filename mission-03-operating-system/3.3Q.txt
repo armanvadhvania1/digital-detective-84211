@@ -1,0 +1,13 @@
+Navigate between your assignment folder and one of its subfolders. Observe how the displayed current location
+changes. Explain the difference between an absolute path and a relative path. Give one example of each from your
+assignment folder.
+
+->Absolute path:Specifies the complete path to a file or folder starting from the root directory ensuring it can be located from anywhere in the system.
+Eg:/Users/...mission-03-operating-system/3.3Q.txt
+
+->Relative path:Specifies the location of a file or folder relative to your current working directory making it dependent on where you currently are.
+Eg:./mission-03-operating-system/3.3Q.txt
+
+*The Owner can read(r) and write(w), the group and others can only read(r).
+
+

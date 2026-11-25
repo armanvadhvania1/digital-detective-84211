@@ -1,0 +1,9 @@
+1)What is a process?
+->A process is an instance of a computer program that is currently being executed by the operating system. It includes the program code, current activity, and allocated system resources.
+
+2)What does the PID column represent?
+->A PID is a unique numerical identifier assigned by the operating system to every active process. The OS uses PIDs to track, manage, and safely terminate processes if needed.
+
+3)Give two examples of processes that may be running on your computer.
+->Terminal
+->Window Server

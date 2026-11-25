@@ -1,0 +1,12 @@
+1)What is difference between replacing a file's contents and adding text add the end?
+->Replacing overwrites all the existing	data in the files entirely, whereas adding text(appending) preserves existing data and simply adds a new lines or characters to the end of file.
+
+2)What is the difference between copying a file and moving a file?
+->Copying(cp) creates a duplicate file in a new location or with a new name while keeping the original file untouched.
+Moving(mv) relocates(changes the file path) or renames the original file itself without creating any duplicate.
+
+3)What information does the current directory display provide?
+->It provides the exact path of your current location within the file system, helping you verify that you are executing the commands in the correct workspace.
+
+4)Why is a directory-listing operation useful?
+->It allows you to view available files and folders, checks if the files exist, and verify names before running operations on them.

@@ -1,0 +1,24 @@
+A package manager helps install, update and remove software. On macOS, Homebrew is a commonly used package
+manager. If it is already installed, check its version and view the list of packages it manages. Do not install or uninstall
+anything for this assignment.
+->Homebrew 7.0.12
+The list of packages Homebrew manages are:
+
+abseil		freetype	icu4c@78	libvmaf		lzo		pcre2		tcl-tk
+ada-url		gettext		jpeg-turbo	libvpx		merve		pixman		uvwasi
+brotli		giflib		json-c		libx11		mpdecimal	python@3.14	webp
+c-ares		git		lame		libxau		mpg123		python@3.15	x264
+ca-certificates	git-gui		libffi		libxcb		nbytes		readline	x265
+cairo		glib		libnghttp2	libxdmcp	node		sdl2-compat	xorgproto
+dav1d		graphite2	libpng		libxext		node@18		sdl3		xz
+dragonbox	harfbuzz	libtiff		libxrender	openjdk		simdjson	zstd
+ffmpeg		hdrhistogram_c	libtommath	little-cms2	openssl@3	simdutf
+fmt		highway		libunistring	llhttp		openssl@4	sqlite
+fontconfig	icu4c@77	libuv		lz4		opus		svt-av1
+
+Write two or three sentences explaining why package managers are useful. If Homebrew is not installed, explain what a package manager does without installing it.
+->Package managers eliminate the need to manually search websites, download installers, and manage software dependencies or version conflicts, ensuring software is easily maintained and updated through standard command-line instructions.
+
+
+
+

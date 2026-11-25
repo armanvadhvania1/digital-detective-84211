@@ -1,0 +1,3 @@
+Difference between staging a change and committing it:
+->Staging (git add) prepares and selects specific file changes into a temporary holding area before saving, allowing you to review or group updates together. 
+->Committing (git commit) permanently records those staged changes as a versioned snapshot in your repository's history.

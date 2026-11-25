@@ -1,0 +1,8 @@
+*A flag or option changes how a command behaves. Display a normal directory listing, then display it with detailed
+information, hidden files included, and human-readable file sizes. Compare the results and explain what changed.
+->Flags (such as -l for long listing, -a for all/hidden files, and -h for human-readable file sizes) modify how a command executes, providing extra details or altering behavior.
+
+
+*Next, send the output of a detailed directory listing to a command that displays only the first few lines. Explain what the
+pipe symbol does and what each side of the pipe contributes. Do not copy output that reveals private information.
+->Pipes (|): A pipe takes the standard output of the command on its left and feeds it as input into the command on its right. For example, piping a detailed directory listing (ls -l) into head restricts the output to display only the first few lines of text.

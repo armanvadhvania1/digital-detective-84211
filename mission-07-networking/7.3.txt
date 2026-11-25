@@ -1,0 +1,13 @@
+What happens when you open a website?
+
+1)Enter the address in the client: You type a website address (such as google.com) into your web browser, which acts as the client initiating a request over the network.
+
+2)Resolve the domain through DNS: The client checks local caches and queries DNS to translate the human-readable domain name into the target server's numeric IP address.
+
+3)Route packets across the network: Using the agreed protocol rules (such as TCP/IP and HTTP/HTTPS), the client breaks the request into packets that pass through your local router and intermediate network routers toward that IP address.
+
+4)Reach the destination server: The server hosting the site receives the incoming request packets on the appropriate port and verifies the connection.
+
+5)Process and send the response: The server prepares the requested page or data and sends response packets back across the network to the client following the same protocol.
+
+6)Render the page on screen: The client reassembles the response packets, interprets the HTML, CSS, and media, and displays the finished website on your screen.

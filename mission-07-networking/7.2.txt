@@ -1,0 +1,8 @@
+1)What a connectivity test helps you check: 
+Whether your device can reach a remote host across the network, whether packets return without loss, and roughly how long round trips take.
+
+2)What information a DNS lookup displays: 
+The domain name queried, the DNS resolver/server that answered, and the mapped address records associated with that domain.
+
+3)Role of DNS in a browser: 
+Translating the human-readable website name you type into a numeric IP address so your device can connect to the right server.

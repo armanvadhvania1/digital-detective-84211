@@ -1,0 +1,9 @@
+1)ASCII decimal codes:
+*Uppercase A-65
+*Lowercase a-97
+
+2)Why a computer needs an encoding standard: 
+*Computers only understand binary numbers (0s and 1s), so a standard encoding system is needed to assign a unique, consistent number to every letter, digit, and symbol so any computer can store and display text accurately.
+
+3)Example of a character not in basic ASCII:
+*Indian Rupee symbol(₹) (supported in UTF-8)
